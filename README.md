@@ -2,7 +2,7 @@
 Heyo
 :cyclone:
 
-check out my repos for my projects!
+check out my [repos](https://github.com/Anthony-Andrews?tab=repositories) for my projects!
 
 <!--
 ~~https://anthony-andrews.github.io~~ (website coming soon™)
